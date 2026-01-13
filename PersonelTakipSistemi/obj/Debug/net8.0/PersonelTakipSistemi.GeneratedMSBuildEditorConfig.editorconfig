@@ -9,79 +9,81 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PersonelTakipSistemi
 build_property.RootNamespace = PersonelTakipSistemi
-build_property.ProjectDir = C:\Users\vedat\source\repos\PersonelTakipSistemi\PersonelTakipSistemi\
+build_property.ProjectDir = C:\Users\TEGM\Documents\GitHub\PersonelTakipSistemi\PersonelTakipSistemi\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\vedat\source\repos\PersonelTakipSistemi\PersonelTakipSistemi
+build_property.MSBuildProjectDirectory = C:\Users\TEGM\Documents\GitHub\PersonelTakipSistemi\PersonelTakipSistemi
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Account/AccessDenied.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Account/Login.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Home/Index.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Home/Privacy.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Personel/Detay.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Personel/Detay.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcRGV0YXkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Personel/Ekle.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Personel/Ekle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcRWtsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Personel/PersonelIndex.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Personel/PersonelIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcUGVyc29uZWxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Personel/Yetkilendir.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Personel/Yetkilendir.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcWWV0a2lsZW5kaXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Personel/Yetkilendirme.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Personel/Yetkilendirme.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcWWV0a2lsZW5kaXJtZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/Error.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/Partials/_Footer.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/Partials/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/Partials/_Header.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/Partials/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/Partials/_Sidebar.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/Partials/_Sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9TaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/_ViewImports.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/_ViewStart.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vedat/source/repos/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/_Layout.cshtml]
+[C:/Users/TEGM/Documents/GitHub/PersonelTakipSistemi/PersonelTakipSistemi/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sg2vhrle8s

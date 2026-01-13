@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vedat\\source\\repos\\PersonelTakipSistemi\\PersonelTakipSistemi\\PersonelTakipSistemi.csproj": {}
+    "C:\\Users\\TEGM\\Documents\\GitHub\\PersonelTakipSistemi\\PersonelTakipSistemi\\PersonelTakipSistemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vedat\\source\\repos\\PersonelTakipSistemi\\PersonelTakipSistemi\\PersonelTakipSistemi.csproj": {
+    "C:\\Users\\TEGM\\Documents\\GitHub\\PersonelTakipSistemi\\PersonelTakipSistemi\\PersonelTakipSistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vedat\\source\\repos\\PersonelTakipSistemi\\PersonelTakipSistemi\\PersonelTakipSistemi.csproj",
+        "projectUniqueName": "C:\\Users\\TEGM\\Documents\\GitHub\\PersonelTakipSistemi\\PersonelTakipSistemi\\PersonelTakipSistemi.csproj",
         "projectName": "PersonelTakipSistemi",
-        "projectPath": "C:\\Users\\vedat\\source\\repos\\PersonelTakipSistemi\\PersonelTakipSistemi\\PersonelTakipSistemi.csproj",
-        "packagesPath": "C:\\Users\\vedat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vedat\\source\\repos\\PersonelTakipSistemi\\PersonelTakipSistemi\\obj\\",
+        "projectPath": "C:\\Users\\TEGM\\Documents\\GitHub\\PersonelTakipSistemi\\PersonelTakipSistemi\\PersonelTakipSistemi.csproj",
+        "packagesPath": "C:\\Users\\TEGM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TEGM\\Documents\\GitHub\\PersonelTakipSistemi\\PersonelTakipSistemi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vedat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TEGM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -76,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
